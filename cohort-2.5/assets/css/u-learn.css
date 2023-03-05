@@ -334,8 +334,8 @@ Header Style
   margin-right: 20px;
   padding-right: 20px;
   border-right: 1px solid rgba(250, 250, 250, 0.3);
-  color: crimson;
-  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 255, 255);
+  font-family: 'poppins', Times, serif;
 }
 .header-area .main-nav .logo h1 span {
   display: inline-block;
